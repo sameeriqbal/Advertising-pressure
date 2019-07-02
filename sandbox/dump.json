@@ -1,0 +1,50 @@
+[
+    {
+        "offsetWidth": 391.390625,
+        "offsetHeight": 80,
+        "className": "ad-leaderboard-container",
+        "id": "",
+        "classNames": [
+            "ad-leaderboard-container"
+        ]
+    },
+    {
+        "offsetWidth": 391.390625,
+        "offsetHeight": 50,
+        "className": "ad-leaderboard",
+        "id": "div-gpt-lb-1",
+        "classNames": [
+            "ad-leaderboard"
+        ]
+    },
+    {
+        "offsetWidth": 391.390625,
+        "offsetHeight": 254,
+        "className": "widget ad-box-container",
+        "id": "",
+        "classNames": [
+            "widget",
+            "ad-box-container"
+        ]
+    },
+    {
+        "offsetWidth": 391.390625,
+        "offsetHeight": 4,
+        "className": "widget ad-box-container",
+        "id": "",
+        "classNames": [
+            "widget",
+            "ad-box-container"
+        ]
+    },
+    {
+        "offsetWidth": 391.390625,
+        "offsetHeight": 4,
+        "className": "widget ad-box-container",
+        "id": "",
+        "classNames": [
+            "widget",
+            "ad-box-container"
+        ]
+    }
+]
